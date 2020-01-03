@@ -1,4 +1,4 @@
-# 🙌 Storybook Community
+# Storybook Community
 
 Community resources: monthly meetings, meetups, conferences
 
