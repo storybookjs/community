@@ -4,7 +4,7 @@ Community resources: monthly meetings, meetups, conferences
 
 ### ⏰ Upcoming
 
-- [Monthly meeting 2020-02-01 16:00 UTC](./meetings/2020/monthly-2021-02-01.md)
+- [Monthly meeting 2021-02-01 16:00 UTC](./meetings/2021/monthly-2021-02-01.md)
 
 ### ✅ Recent
 
